@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there I'm Nicola Boscolo!
 
-<!--
-**nicolaboscolocegion/nicolaboscolocegion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A computer engeneer located in Italy
 
-Here are some ideas to get you started:
+## Links
+[Linkein](https://www.linkedin.com/in/nicola-boscolo-cegion-732769152/) 👔  
+[MyWebstite](https://www.nikbc.tech) 🌍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming skills
+
+Favorite programming language : C++  
+Pretty good in a lot of them expecially: C, java, javascript, python
+
+## Trivia
+
+I'm a big nerd 🤓  
+I love videogames 👾  
+I love lego 🧱  
+I have some gumpla 🤖  
+My dream is to work in the videogames industry

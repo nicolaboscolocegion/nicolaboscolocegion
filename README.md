@@ -9,7 +9,7 @@ A computer engeneer located in Italy
 ## Programming skills
 
 Favorite programming language : C++  
-Pretty good in a lot of them expecially: C, java, javascript, python
+Pretty good in a lot of them expecially: C, C++, java, javascript, python
 
 ## Trivia
 

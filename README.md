@@ -4,7 +4,7 @@ A computer engeneer located in Italy
 
 ## Links
 [Linkein](https://www.linkedin.com/in/nicola-boscolo-cegion-732769152/) 👔  
-[MyWebstite](https://www.nikbc.tech) 🌍
+[MyWebstite](https://www.nikbc.com) 🌍
 
 ## Programming skills
 
